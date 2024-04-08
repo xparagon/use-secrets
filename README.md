@@ -4,8 +4,8 @@
 
 Set the environment variables:
 
-> $env:place = "On the moon"
-> $env:key = "0123456789"
+> $env:place = "On the moon"<br />
+> $env:key = "0123456789"<br />
 > echo "place: $env:place, key: $env:key"
 
 Run the test:
@@ -61,4 +61,8 @@ Now - you can make sure the environment variables are defined, and run:
 
 > node use-secrets.js env.npmrc .npmrc FeedCompany FeedId FeedName FeedEmail FeedPassword
 
-You may now push 'env.npmrc' to github and add '.npmrc' to the '.gitigmore'.
+Push 'env.npmrc' to github and add '.npmrc' to the '.gitigmore'.
+
+## Developed by
+
+Note that this wcript was created by ChatGPT
