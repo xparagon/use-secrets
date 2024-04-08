@@ -65,4 +65,4 @@ Push 'env.npmrc' to github and add '.npmrc' to the '.gitigmore'.
 
 ## Developed by
 
-Note that this wcript was created by ChatGPT
+Note that this script was created by ChatGPT
